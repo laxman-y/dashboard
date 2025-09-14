@@ -1,0 +1,11 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "name": "cloudscape-app",
+  "short_name": "cloudscape-app",
+  "description": "cloudscape-app sample",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone"
+ 
+}
